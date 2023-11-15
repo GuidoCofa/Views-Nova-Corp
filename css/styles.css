@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-item-pruebagratuita{
+    background-color: aqua;
+    border-radius: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+
+.nav-item-funcionalidades{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+
+.nav-item-soluciones{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+
+.nav-item-precios{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+
+.nav-item-ingresar{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+
+.aqua{
+    color: aqua;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+    margin-left: 80px;
+    line-height: 0.5;
+}
+
+.titulo{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    margin-top: 80px;
+    margin-left: 80px;
+    line-height: 1.2;
+    
+}
+
+.texto{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    margin-top: 55px;
+    margin-left: 80px;
+    line-height: 0.5;
+}
+
+.textoo{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 80px;
+    line-height: 0.5;
+
+}
+
+.titulo2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    margin-top: 300px;
+    margin-left: 750px;
+}
+
+.textooo{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    line-height: 0.5;
+    margin-left: 750px;
+}
+
+.textoi{
+    margin-left: 750px;
+    margin-top: 80px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    line-height: 0.5;
+    margin-left: 750px;
+    margin-top: 40px;
+}
+
+.aqua2{
+    color: aqua;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+    margin-left: 750px;
+    line-height: 0.5;
+}
+
+.carrusel{
+    width: 550px;
+    height: 550px;
+    margin-top: 100px;
+    margin-left: 90px;
+}
