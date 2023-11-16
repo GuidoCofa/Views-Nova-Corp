@@ -7,27 +7,27 @@
 .nav-item-pruebagratuita{
     background-color: aqua;
     border-radius: 100px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
 }
 
 .nav-item-funcionalidades{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
 }
 
 .nav-item-soluciones{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
 }
 
 .nav-item-precios{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
 }
 
 .nav-item-ingresar{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
 }
 
@@ -50,7 +50,7 @@
 }
 
 .texto{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
     font-size: larger;
     margin-top: 55px;
@@ -59,7 +59,7 @@
 }
 
 .textoo{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
     font-size: larger;
     margin-left: 80px;
@@ -71,31 +71,29 @@
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
     margin-top: 300px;
-    margin-left: 750px;
+    margin-left: 540px;
 }
 
 .textooo{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
     font-size: larger;
     line-height: 0.5;
-    margin-left: 750px;
+    margin-left: 540px;
 }
 
 .textoi{
-    margin-left: 750px;
-    margin-top: 80px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
     font-size: larger;
     line-height: 0.5;
-    margin-left: 750px;
+    margin-left: 540px;
     margin-top: 40px;
 }
 
 .aqua2{
     color: aqua;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bolder;
     text-decoration: underline;
     margin-left: 750px;
@@ -103,8 +101,54 @@
 }
 
 .carrusel{
-    width: 550px;
-    height: 550px;
+    width: 500px;
+    height: 500px;
     margin-top: 100px;
     margin-left: 195px;
+}
+
+.titulo3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    margin-top: -470px;
+    margin-left: 900px;
+}
+
+.text{
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    line-height: 2.9;
+    margin-top: -2px;
+    margin-left: 900px;
+}
+
+.textt{ 
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    margin-top: -3px;
+    margin-left: 900px;
+    line-height: 0.1rem;
+}
+
+.boton{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-top: -3px;
+    margin-left: 900px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+}
+
+.boton:hover{
+    background-color: aqua;
+}
+
+.empresarios{
+    width: 800px;
+    height: 500px;
 }
