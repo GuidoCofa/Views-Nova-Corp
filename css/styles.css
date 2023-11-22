@@ -4,8 +4,12 @@
     box-sizing: border-box;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 .nav-item-pruebagratuita{
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.836);
     border-radius: 100px;
     font-family: 'Inter', sans-serif;
     font-weight: bolder;
@@ -32,7 +36,7 @@
 }
 
 .aqua{
-    color: aqua;
+    color: rgba(0, 255, 255, 0.692);
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
     text-decoration: underline;
@@ -43,7 +47,7 @@
 .titulo{
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
-    margin-top: 80px;
+    margin-top: 30px;
     margin-left: 80px;
     line-height: 1.2;
     
@@ -70,7 +74,7 @@
 .titulo2 {
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
-    margin-top: 300px;
+    margin-top: -120px;
     margin-left: 540px;
 }
 
@@ -112,13 +116,14 @@
     font-weight: bolder;
     margin-top: -470px;
     margin-left: 900px;
+    line-height: 2.9;
+
 }
 
 .text{
     font-family: 'Inter', sans-serif;
     font-weight: bolder;
     font-size: larger;
-    line-height: 2.9;
     margin-top: -2px;
     margin-left: 900px;
 }
@@ -127,14 +132,12 @@
     font-family: 'Inter', sans-serif;
     font-weight: bolder;
     font-size: larger;
-    margin-top: -3px;
     margin-left: 900px;
-    line-height: 0.1rem;
+    line-height: 0.5;
 }
 
 .boton{
     background-color: black;
-    text-decoration: none;
     color: white;
     padding: 10px 10px;
     border-radius: 5px;
@@ -142,13 +145,83 @@
     margin-left: 900px;
     font-family: 'Inter', sans-serif;
     font-weight: bolder;
+    text-decoration: none;
 }
 
 .boton:hover{
-    background-color: aqua;
+    text-decoration: none;
+    color: black;
+    background-color: white;
 }
 
 .empresarios{
     width: 800px;
     height: 500px;
+}
+
+.titulo4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    margin-top:  350px;
+    margin-left: 230px;
+    line-height: 2.9;
+
+}
+
+.textc{
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 350px;
+    margin-top: 20px;
+    line-height: 0.3;
+}
+
+.textcc{
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 350px;
+    margin-top: 20px;
+    line-height: 0.5;
+}
+
+.carrusel2{
+    width: 400px;
+    height: 400px;
+    margin-top: -240px;
+    margin-left: 1000px;
+}
+
+.mover{
+    margin-left: 120px;
+}
+
+.botonn{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 350px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.botonn:hover{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+
+.fondo{
+    width: 1000px;
+    height: 1000px;
+    margin-left: 400px;
+    margin-top: -100px;
+}
+
+.fondoo{
+    background: rgb(209,209,209);
+    background: linear-gradient(90deg, rgba(209,209,209,1) 24%, rgba(0,212,255,1) 100%);
 }
