@@ -335,3 +335,60 @@ body {
 
 /*_____________________________*/
 
+.card-title{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+}
+
+.card-text{
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    color: black;
+    
+}
+
+.card-body{
+    background-color: aqua;
+    margin-top: 10px;
+}
+
+.boto{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.boto:hover{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+
+.movercard{
+    margin-top: 150px;
+}
+
+.movercard2{
+    margin-top: -390px;
+    margin-left: 400px; 
+}
+
+.imagenz{
+    border-radius: 25px;
+    margin-top: 10px;
+}
+
+.movercard3{
+    margin-top: -415px;
+    margin-left: 400px; 
+}
+
+.cards{
+    margin-left: 400px;
+    margin-top: 200px;
+}
